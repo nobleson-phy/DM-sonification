@@ -61,7 +61,7 @@ When B3 and B35 epochs coincide, the sonifier retains only the B35 measurement (
 
 ### Pitch → DM residual
 
-Each observation's note is chosen from a diatonic scale (default: D Phrygian, 3 octaves). The **fiducial DM** — the long-term mean for each pulsar — maps to the root note nearest to middle C (the "home" pitch). Positive DM residuals play higher; negative residuals play lower, scaled by the pulsar's own peak deviation so the full dynamic range fills the scale.
+Each observation's note is chosen from a diatonic scale (default: D Phrygian, 3 octaves). The **fiducial DM** — DM of a specific epoch for each pulsar — maps to the root note nearest to middle C (the "home" pitch). Positive DM residuals play higher; negative residuals play lower, scaled by the pulsar's own peak deviation so the full dynamic range fills the scale.
 
 ### Timbre → measurement error
 
