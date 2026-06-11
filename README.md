@@ -6,6 +6,18 @@ Built from [Indian Pulsar Timing Array (InPTA)](https://inpta.iitr.ac.in/) obser
 
 ---
 
+## Screenshots
+
+**Single Pulsar view** — select any pulsar from the left rail to see its DM residual time-series and play the sonification:
+
+![Single Pulsar tab](screenshots/single_pulsar.png)
+
+**All Pulsars view** — all 27 pulsars play simultaneously in a stacked small-multiples layout:
+
+![All Pulsars tab](screenshots/all_pulsars.png)
+
+---
+
 ## Dataset
 
 27 millisecond pulsars, 3775 raw observations, observed biweekly over several years.
